@@ -63,4 +63,12 @@
 - Python3.9
 - xlrd==1.2.0
 
+## Installation
+
+- clone the project to your machine
+- cd into the project directory (ex: `cd twotwoonebbs`)
+- run pipenv shell (if pipenv is not installed run `pip install pipenv` first)
+- run pipenv install to install all the dependencies
+- start executing python files extract_data and bomdisti by `python extract_data.py` and `python bomdisti.py`
+
 Please contact me at rsumit123@gmail.com for more details
